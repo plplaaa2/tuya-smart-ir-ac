@@ -23,7 +23,6 @@ climate:
      ac_id: ""        # ac id
 ```
 
-![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/18dfd91f-2800-4b21-aadb-7959336f6cdc)
-
+![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/f50ba394-6188-4975-920a-f0ef83ffd825)
 
 **You can find the IDs from the Tuya Iot Website!**
