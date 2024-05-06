@@ -24,4 +24,7 @@ climate:
 ```
 ![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/04bbf3fe-1e49-4e24-9e18-1d561eb374d5)
 
+![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/1f60454b-e83f-4812-a55d-d51acf08057a)
+
+
 **You can find the IDs from the Tuya Iot Website!**
