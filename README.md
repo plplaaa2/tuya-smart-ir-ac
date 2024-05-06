@@ -1,8 +1,6 @@
-# Home Assistant Tuya IR Air Conditioner Integration
+# Home Assistant Tuya IR Air Conditioner Integration US
 
-[![YouTube Video](https://img.youtube.com/vi/A8ICsEnGfkg/0.jpg)](https://www.youtube.com/watch?v=A8ICsEnGfkg)
-
-This is a custom integration to control IR-based air conditioners from Tuya via Home Assistant.
+# it's fork for tuya us datacenter
 
 ![Example Image](https://github.com/DavidIlie/tuya-smart-ir-ac/assets/47594764/c91995e3-474c-47df-83f6-eaf64371a1d4)
 
