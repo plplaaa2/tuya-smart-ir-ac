@@ -23,7 +23,7 @@ class TuyaAPI:
         self.ir_remote_device_id = ir_remote_device_id
         self.hass = hass
 
-        openapi = TuyaOpenAPI("https://openapi.tuyaeu.com", access_id, access_secret)
+        openapi = TuyaOpenAPI("https://openapi.tuyaus.com", access_id, access_secret)
         openapi.connect()
         self.openapi = openapi
 
