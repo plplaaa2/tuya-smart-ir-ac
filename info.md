@@ -20,7 +20,7 @@ climate:
      sensor: "sensor.whatever_sensor_you_have"
      access_id: ""
      access_secret: ""
-     remote_id: ""       # smart ir id
+     remote_id: ""       # smart ir remote id
      ac_id: ""        # ac id
 ```
 **You can find the IDs from the Tuya Iot Website!**
