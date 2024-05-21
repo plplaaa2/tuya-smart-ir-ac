@@ -1,5 +1,4 @@
-
-# Home Assistant Tuya IR Air Conditioner Integration
+# Home Assistant Tuya IR Air Conditioner Integration (US)
 
 ![Example Image](https://github.com/DavidIlie/tuya-smart-ir-ac/assets/47594764/c91995e3-474c-47df-83f6-eaf64371a1d4)
 
@@ -11,23 +10,21 @@ The copyright to this fork belongs to DavidIllie
 
 ## Adding it to Home Assistant
 
-I don't know how to create a UI (SOMETHING TODO) so here is the basic configuration for HA:
+configuration.yaml에 아래와 같은 내용을 추가합니다.
 
 ```yaml
 climate:
    - platform: tuya_smart_ir_ac
-     name: "Thermostat"
+     name: "your ac name"
      sensor: "sensor.whatever_sensor_you_have"
      access_id: ""
      access_secret: ""
-     remote_id: ""       # smart ir remote id
-     ac_id: ""        # ac id
+     remote_id: ""       # smart ir device id
+     ac_id: ""        # ac device id
 ```
-**You can find the IDs from the Tuya Iot Website!**
+
+**You can find the Device IDs from the Tuya Iot Website!**
 
 ![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/04bbf3fe-1e49-4e24-9e18-1d561eb374d5)
 
 ![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/1f60454b-e83f-4812-a55d-d51acf08057a)
-
-
-
