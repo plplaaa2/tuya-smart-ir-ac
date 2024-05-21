@@ -22,7 +22,8 @@ climate:
      remote_id: ""       # smart ir device id
      ac_id: ""        # ac device id
 ```
-**You can find the IDs from the Tuya Iot Website!**
+
+**You can find the Device IDs from the Tuya Iot Website!**
 
 ![image](https://github.com/plplaaa2/tuya-smart-ir-ac/assets/124797654/04bbf3fe-1e49-4e24-9e18-1d561eb374d5)
 
